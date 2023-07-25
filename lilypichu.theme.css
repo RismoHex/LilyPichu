@@ -20,7 +20,7 @@
   /* Background (if you want an image replace it by : 
 
 --background-tertiary-alt: url("image-link"); without that => */
-  --background-tertiary-alt: #ffc7d4;
+  --background-tertiary-alt: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.dkSI0eHzbR0IEdkc0Rp3BAHaEo%26pid%3DApi&f=1&ipt=9e9356220645dbc8ce36aa21a6b7503e3984ac20afa547a75328535eff56d283&ipo=images");
 
   /* Border-radius for the whole theme */
   --border-radius: 20px;
